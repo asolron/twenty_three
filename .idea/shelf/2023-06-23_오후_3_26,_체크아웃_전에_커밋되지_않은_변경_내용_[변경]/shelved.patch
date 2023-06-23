@@ -1,0 +1,20 @@
+Index: main_1.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>if __name__ == '__main__':\r\n    print('맞추기만 하자 하나하나')\r\n    print('')\r\n    print('Hello github')\r\n    print('감당')\r\n    \r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/main_1.py b/main_1.py
+--- a/main_1.py	(revision 39b13ca8851f2157714cc1997a84f9db75c732e0)
++++ b/main_1.py	(date 1687501529836)
+@@ -2,5 +2,7 @@
+     print('맞추기만 하자 하나하나')
+     print('')
+     print('Hello github')
+-    print('감당')
+-    
++    print('감당ㅇㅇ')
++    print('부산건 안될거야 !! 하!~~~')
++    print('어이구야.. ')
++
